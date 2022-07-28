@@ -1,2 +1,2 @@
 # Test_rep
-Just a few of tests
+This rep aims to create some test cases to practice git commands
